@@ -42,7 +42,7 @@
 > 排名不分先后
 
 - [皮皮虾](https://github.com/P-P-X)
-- [燃点](https://gitee.com/liuxun)
+- [燃点](https://github.com/randian666/)
 
 
 ##### 社区平台
