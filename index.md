@@ -20,7 +20,7 @@
 </p>	
 
 <p align="center">
-   <img src="http://p9-tt.byteimg.com/img/mosaic-legacy/2426b000084216a465aa5~noop_430x430.jpeg" height="100"></img>
+   <img src="http://p9-tt.byteimg.com/img/mosaic-legacy/2426b000084216a465aa5~noop_430x430.jpeg" height="100">
 </p>  
 
 ##### 欢迎关注
