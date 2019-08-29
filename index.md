@@ -19,7 +19,13 @@
    </a>
 </p>	
 
+<p align="center">
+   <img src="http://p9-tt.byteimg.com/img/mosaic-legacy/2426b000084216a465aa5~noop_430x430.jpeg" height="100"></img>
+</p>  
+
 ##### 欢迎关注
+
+> 1.01の法則
 
 - [https://github.com/P-P-X/awesome-collector](https://github.com/P-P-X/awesome-collector) 
 
