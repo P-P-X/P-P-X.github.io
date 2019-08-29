@@ -19,11 +19,11 @@
    </a>
 </p>	
 
-### 欢迎关注
+#### 欢迎关注
 
 - [仓库地址](https://github.com/P-P-X/awesome-collector) 
 
-### 皮皮专栏
+#### 皮皮专栏
 
 - [运维部署](https://github.com/P-P-X/awesome-collector/blob/master/%E8%BF%90%E7%BB%B4%E9%83%A8%E7%BD%B2.md)
 - [理论基础](https://github.com/P-P-X/awesome-collector/blob/master/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
@@ -32,15 +32,23 @@
 - [开源项目](https://github.com/P-P-X/awesome-collector/blob/master/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE.md)
 - [在线工具](https://github.com/P-P-X/awesome-collector/blob/master/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7.md)
 
-### 社区贡献
+#### 社区贡献
 
-排名不分先后
+> 诚邀社区力量(排名不分先后)
 
 - [皮皮虾](https://github.com/P-P-X)
 - [燃点](https://gitee.com/liuxun)
 
-> 诚邀社区力量
 
-### Support or Contact
+#### 平台服务
+
+> 排名不分先后 
  
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 微信
+- CSDN
+- 开源中国
+- 博客园
+- 简书
+- 头条号
+- ...
+
