@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-   <strong>感谢: 微信、CSDN、开源中国、博客园、简书、头条号、头条IO等 媒体平台提供内容资源</strong>
+   <strong>感谢: 微信、CSDN、开源中国、博客园、简书、头条号、头条IO等媒体平台提供内容资源</strong>
 </p>
 
 <p align="center">
@@ -36,24 +36,4 @@
 - [开源项目](https://github.com/P-P-X/awesome-collector/blob/master/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE.md)
 
 - [在线工具](https://github.com/P-P-X/awesome-collector/blob/master/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7.md)
-
-##### 社区贡献
-
-> 排名不分先后
-
-- [皮皮虾](https://github.com/P-P-X)
-- [燃点](https://github.com/randian666/)
-
-
-##### 社区平台
-
-> 排名不分先后 
- 
-- 微信
-- CSDN
-- 开源中国
-- 博客园
-- 简书
-- 头条号
-- ...
 
