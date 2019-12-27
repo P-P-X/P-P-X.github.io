@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <strong>相信坚持的力量</strong>
+   <strong>Awesome-Collector</strong>
 </p>
 
 <p align="center">
